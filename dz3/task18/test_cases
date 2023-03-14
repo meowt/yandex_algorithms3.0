@@ -1,0 +1,68 @@
+push_front 5
+push_front 4
+push_front 3
+push_front 2
+push_front 1
+size
+front
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+back
+size
+
+push_back 3
+push_front 2
+push_back 1
+size
+front
+pop_front
+pop_back
+pop_front
+back
+size
+
+push_front 3
+push_front 2
+push_front 1
+back
+pop_front
+back
+size
+pop_back
+push_front 1
+push_back 3
+size
+clear
+pop_front
+pop_back
+size
+exit
+
+push_front 2
+push_front 1
+back
+size
+pop_back
+size
+pop_back
+size
+push_back 1
+push_back 2
+front
+size
+
+push_back 1
+push_back 2
+push_back 3
+push_back 4
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+front
+back
+
